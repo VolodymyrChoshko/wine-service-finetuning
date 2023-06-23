@@ -65,10 +65,8 @@ To do:
 
 ## Acknowledgements
 
-- This project was inspired by Valentyn.
 - This project was based on [this tutorial](https://platform.openai.com/docs/guides/fine-tuning).
-- Many thanks to Valentyn.
 
 ## Contact
 
-Created by [@violetstar701](https://) - feel free to contact me!
+Created by [@VolodymyrChoshko]([https://](https://github.com/VolodymyrChoshko)https://github.com/VolodymyrChoshko) - feel free to contact me!
